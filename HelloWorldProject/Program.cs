@@ -3,7 +3,7 @@
 namespace HelloWorldProject {
     class Program {
         static void Main(string[] args) 
-        { 
+        {  
             Console.WriteLine("At MAX Techinical Training");
             Console.WriteLine("Hello C# Boot Camp World!");
             int daysInBootcamp = 6;
